@@ -6,6 +6,6 @@ For both challenges, as the docstring indicates, the main.py requires a command-
 
 For the PyPoll challenge, I wrote this as if there could be more than one .csv file in the supplied directory.
 
-For the PyParagraph challenge, the order of the summary table is slightly different the what the example shows in the instructions, but since I decided to use a dictionary specific to sentences, and one specific to word, I grouped them as such.
+For the PyParagraph challenge, the order of the summary table is slightly different the what the example shows in the instructions, but since I decided to use two separate dictionaries for this table (one specific to sentences and another specific to words), I grouped them as such.
 
 Thanks for reading!
